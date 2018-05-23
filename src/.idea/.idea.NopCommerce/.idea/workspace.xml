@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dcd6e00-34e3-4cdd-b892-873eddf70dc6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Configure.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Plugins/Payments.PayPalDirect/Views/Configure.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <marker date="1526874553151" expanded="true" signature="7:68" ph="..." />
+                <marker date="1526874553151" expanded="true" signature="138:175" ph="@..." />
+                <marker date="1526874553151" expanded="true" signature="263:6242" ph="&lt;form.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="348:6234" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="382:6223" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="428:6208" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="694:1232" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="739:1013" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1034:1209" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1249:1807" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1294:1580" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1601:1784" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1824:2916" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1869:1976" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="1997:2893" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="2044:2797" ph="@..." />
+                <marker date="1526874553151" expanded="true" signature="2097:2212" ph="{...}" />
+                <marker date="1526874553151" expanded="true" signature="2241:2797" ph="{...}" />
+                <marker date="1526874553151" expanded="true" signature="2296:2771" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="2421:2736" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="2487:2697" ph="&lt;button.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="2934:3543" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="2979:3275" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="3296:3520" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="3560:4108" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="3605:3885" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="3906:4085" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="4125:4713" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="4170:4474" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="4495:4690" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="4730:5293" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="4775:5064" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="5085:5270" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="5310:5923" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="5355:5674" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="5695:5900" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="5940:6189" ph="&lt;div.../&gt;" />
+                <marker date="1526874553151" expanded="true" signature="5985:6166" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Methods.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Areas/Admin/Views/ExternalAuthentication/Methods.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+              <folding>
+                <marker date="1526878714274" expanded="true" signature="31:243" ph="@..." />
+                <marker date="1526878714274" expanded="true" signature="270:589" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="312:408" ph="&lt;h1.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="413:582" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="591:7509" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="617:7502" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="655:7491" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="693:7476" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="743:7457" ph="&lt;div.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="853:7434" ph="&lt;script.../&gt;" />
+                <marker date="1526878714274" expanded="true" signature="938:7402" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="1011:7374" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="1057:3642" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="1156:1985" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="1204:1548" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="1598:1947" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="2031:2879" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="2248:2841" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="2364:2799" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="2941:3145" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="3202:3436" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="3686:4013" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="4057:4234" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="4328:7344" ph="[...]" />
+                <marker date="1526878714274" expanded="true" signature="4362:4625" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="4627:4886" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="4888:5257" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="5259:5840" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="5842:6518" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="6520:7310" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="6567:6988" ph="{...}" />
+                <marker date="1526878714274" expanded="true" signature="6669:6950" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaymentSquareViewComponent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plugins/iAunty.Plugin.Payments.Square/Components/PaymentSquareViewComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding>
+                <marker date="1526874551425" expanded="false" signature="6:303" ph="..." />
+                <marker date="1526874551425" expanded="true" signature="355:2737" ph="{...}" />
+                <marker date="1526874551425" expanded="true" signature="461:2735" ph="{...}" />
+                <marker date="1526874551425" expanded="true" signature="476:700" ph="Fields" />
+                <marker date="1526874551425" expanded="true" signature="710:1109" ph="Ctor" />
+                <marker date="1526874551425" expanded="true" signature="900:1089" ph="{...}" />
+                <marker date="1526874551425" expanded="true" signature="1119:2729" ph="Methods" />
+                <marker date="1526874551425" expanded="true" signature="1180:2709" ph="{...}" />
+                <marker date="1526874551425" expanded="true" signature="1248:1634" ph="{...}" />
+                <marker date="1526874551425" expanded="true" signature="1930:2245" ph="{...}" />
+                <marker date="1526874551425" expanded="true" signature="2353:2612" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Default.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Areas/Admin/Views/Shared/Components/AclDisabledWarning/Default.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding>
+                <marker date="1526868778945" expanded="true" signature="0:119" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Plugins/iAunty.Plugin.Payments.Square/Components/PaymentSquareViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Areas/Admin/Views/Shared/Components/AclDisabledWarning/Default.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Plugins/Payments.PayPalDirect/Views/Configure.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Areas/Admin/Views/ExternalAuthentication/Methods.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="73" />
+    <option name="y" value="455" />
+    <option name="width" value="1553" />
+    <option name="height" value="849" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="NopCommerce (26 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="NopCommerce (26 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Presentation/Nop.Web/bin/Debug/net461/Nop.Web.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Presentation/Nop.Web" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Presentation/Nop.Web/Nop.Web.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dcd6e00-34e3-4cdd-b892-873eddf70dc6" name="Default" comment="" />
+      <created>1527042373549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527042373549</updated>
+      <workItem from="1527042376025" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Areas/Admin/Views/ExternalAuthentication/Methods.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <marker date="1526878714274" expanded="true" signature="31:243" ph="@..." />
+            <marker date="1526878714274" expanded="true" signature="270:589" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="312:408" ph="&lt;h1.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="413:582" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="591:7509" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="617:7502" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="655:7491" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="693:7476" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="743:7457" ph="&lt;div.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="853:7434" ph="&lt;script.../&gt;" />
+            <marker date="1526878714274" expanded="true" signature="938:7402" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="1011:7374" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="1057:3642" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="1156:1985" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="1204:1548" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="1598:1947" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="2031:2879" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="2248:2841" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="2364:2799" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="2941:3145" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="3202:3436" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="3686:4013" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="4057:4234" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="4328:7344" ph="[...]" />
+            <marker date="1526878714274" expanded="true" signature="4362:4625" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="4627:4886" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="4888:5257" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="5259:5840" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="5842:6518" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="6520:7310" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="6567:6988" ph="{...}" />
+            <marker date="1526878714274" expanded="true" signature="6669:6950" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugins/iAunty.Plugin.Payments.Square/Components/PaymentSquareViewComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <marker date="1526874551425" expanded="false" signature="6:303" ph="..." />
+            <marker date="1526874551425" expanded="true" signature="355:2737" ph="{...}" />
+            <marker date="1526874551425" expanded="true" signature="461:2735" ph="{...}" />
+            <marker date="1526874551425" expanded="true" signature="476:700" ph="Fields" />
+            <marker date="1526874551425" expanded="true" signature="710:1109" ph="Ctor" />
+            <marker date="1526874551425" expanded="true" signature="900:1089" ph="{...}" />
+            <marker date="1526874551425" expanded="true" signature="1119:2729" ph="Methods" />
+            <marker date="1526874551425" expanded="true" signature="1180:2709" ph="{...}" />
+            <marker date="1526874551425" expanded="true" signature="1248:1634" ph="{...}" />
+            <marker date="1526874551425" expanded="true" signature="1930:2245" ph="{...}" />
+            <marker date="1526874551425" expanded="true" signature="2353:2612" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Areas/Admin/Views/Shared/Components/AclDisabledWarning/Default.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding>
+            <marker date="1526868778945" expanded="true" signature="0:119" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Presentation/iAunty.Web/Plugins/Payments.PayPalDirect/Views/Configure.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <marker date="1526874553151" expanded="true" signature="7:68" ph="..." />
+            <marker date="1526874553151" expanded="true" signature="138:175" ph="@..." />
+            <marker date="1526874553151" expanded="true" signature="263:6242" ph="&lt;form.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="348:6234" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="382:6223" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="428:6208" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="694:1232" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="739:1013" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1034:1209" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1249:1807" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1294:1580" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1601:1784" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1824:2916" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1869:1976" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="1997:2893" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="2044:2797" ph="@..." />
+            <marker date="1526874553151" expanded="true" signature="2097:2212" ph="{...}" />
+            <marker date="1526874553151" expanded="true" signature="2241:2797" ph="{...}" />
+            <marker date="1526874553151" expanded="true" signature="2296:2771" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="2421:2736" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="2487:2697" ph="&lt;button.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="2934:3543" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="2979:3275" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="3296:3520" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="3560:4108" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="3605:3885" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="3906:4085" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="4125:4713" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="4170:4474" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="4495:4690" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="4730:5293" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="4775:5064" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="5085:5270" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="5310:5923" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="5355:5674" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="5695:5900" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="5940:6189" ph="&lt;div.../&gt;" />
+            <marker date="1526874553151" expanded="true" signature="5985:6166" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
