@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Nop.Core;
+﻿using Nop.Core;
 
-namespace iAunty.com.Data.Mapping
+namespace Nop.Data.Mapping
 {
     public class NopSyncableEntityTypeConfiguration<T> : NopGuidEntityTypeConfiguration<T> where T : BaseSyncableEntity
     {

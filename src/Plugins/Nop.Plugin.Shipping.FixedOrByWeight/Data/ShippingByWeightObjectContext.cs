@@ -43,7 +43,7 @@ namespace Nop.Plugin.Shipping.FixedOrByWeight.Data
             return ((IObjectContextAdapter)this).ObjectContext.CreateDatabaseScript();
         }
 
-        public new IDbSet<TEntity> Set<TEntity>() where TEntity : BaseEntity
+        public new IDbSet<TEntity> Set<TEntity>() where TEntity : class, IBaseEntity
         {
             return base.Set<TEntity>();
         }

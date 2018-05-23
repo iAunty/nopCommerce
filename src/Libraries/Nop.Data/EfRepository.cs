@@ -11,7 +11,7 @@ namespace Nop.Data
     /// <summary>
     /// Entity Framework repository
     /// </summary>
-    public partial class EfRepository<T> : IRepository<T> where T : BaseEntity
+    public partial class EfRepository<T> : IRepository<T> where T : class ,IBaseEntity
     {
         #region Fields
 

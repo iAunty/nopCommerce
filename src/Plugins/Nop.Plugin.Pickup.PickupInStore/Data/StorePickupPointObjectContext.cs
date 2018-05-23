@@ -77,7 +77,7 @@ namespace Nop.Plugin.Pickup.PickupInStore.Data
         /// </summary>
         /// <typeparam name="TEntity">The type entity for which a set should be returned</typeparam>
         /// <returns>A set for the given entity type</returns>
-        public new IDbSet<TEntity> Set<TEntity>() where TEntity : BaseEntity
+        public new IDbSet<TEntity> Set<TEntity>() where TEntity : class, IBaseEntity
         {
             return base.Set<TEntity>();
         }

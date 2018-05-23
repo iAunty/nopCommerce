@@ -6,7 +6,7 @@ namespace Nop.Core.Data
     /// <summary>
     /// Repository
     /// </summary>
-    public partial interface IRepository<T> where T : BaseEntity
+    public partial interface IRepository<T> where T : class,  IBaseEntity
     {
         /// <summary>
         /// Get entity by identifier
