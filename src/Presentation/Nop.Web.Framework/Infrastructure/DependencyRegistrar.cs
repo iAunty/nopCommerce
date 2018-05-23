@@ -95,6 +95,8 @@ namespace Nop.Web.Framework.Infrastructure
 
             //repositories
             builder.RegisterGeneric(typeof(EfRepository<>)).As(typeof(IRepository<>)).InstancePerLifetimeScope();
+            builder.RegisterGeneric(typeof(EfStringIdRepository<>)).As(typeof(IStringIdRepository<>)).InstancePerLifetimeScope();
+            builder.RegisterGeneric(typeof(EfSyncableRepository<>)).As(typeof(ISyncableRepository<>)).InstancePerLifetimeScope();
 
             //plugins
             builder.RegisterType<PluginFinder>().As<IPluginFinder>().InstancePerLifetimeScope();
