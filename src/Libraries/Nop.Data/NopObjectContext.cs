@@ -7,6 +7,7 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Reflection;
 using Nop.Core;
+using Nop.Core.Extensions;
 using Nop.Data.Mapping;
 
 namespace Nop.Data
@@ -45,11 +46,14 @@ namespace Nop.Data
             var typesToRegister = Assembly.GetExecutingAssembly().GetTypes()
             .Where(type => !string.IsNullOrEmpty(type.Namespace))
             .Where(type => type.BaseType != null && type.BaseType.IsGenericType &&
-                type.BaseType.GetGenericTypeDefinition() == typeof(NopEntityTypeConfiguration<>));
+                           typeof(NopEntityTypeConfiguration<>).IsSubclassOfRawGeneric(type));
             foreach (var type in typesToRegister)
             {
-                dynamic configurationInstance = Activator.CreateInstance(type);
-                modelBuilder.Configurations.Add(configurationInstance);
+                if (!type.IsGenericTypeDefinition)
+                {
+                    dynamic configurationInstance = Activator.CreateInstance(type);
+                    modelBuilder.Configurations.Add(configurationInstance);
+                }
             }
             //...or do it manually below. For example,
             //modelBuilder.Configurations.Add(new LanguageMap());
